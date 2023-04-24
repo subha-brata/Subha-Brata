@@ -21,8 +21,6 @@ Hi there! 🙋<br> I'm an aspiring full-stack developer who loves finding soluti
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Subha-Brata&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Subha-Brata&icon=2&color=5)](https://visitcount.itsvg.in)
