@@ -1,4 +1,5 @@
 ## me >>
+![banner](https://www.linkedin.com/in/subha-brata/overlay/background-image/)
 i eat. i code. i live.<br>Kolkata, India.<br>Let's collaborate and build something new.
 
 
