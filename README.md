@@ -20,7 +20,7 @@ i eat. i code. i live.<br>Kolkata, India.<br>Let's collaborate and build somethi
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=subha-brata&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Latest project >>
-### Project Name
+### BloomIQ
 <img src="https://github.com/subha-brata/BloomIQ/blob/main/BloomIQ.png" height="300px"/><br>
 **Description:** A web application to evaluate question papers according to Bloom's Taxonomy.<br>
 **Check Out:** [Link to Repository](https://github.com/subha-brata/BloomIQ)<br>
